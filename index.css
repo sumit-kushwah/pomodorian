@@ -1,0 +1,23 @@
+.time {
+    font-size: 100px;
+    text-align: center;
+}
+
+.btns {
+    text-align: center;
+}
+
+#minute {
+    font-size: 200px;
+    width: auto;
+}
+
+#second {
+    font-size: 100px;
+    width: auto;
+}
+
+#mode {
+    text-align: center;
+    font-size: 40px;
+}
